@@ -2,7 +2,7 @@
 <h3 align="center">Self-employed developer and student at the FH Aachen - University of Applied Siences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tituskirch" alt="tituskirch" /> </p>
 
-<p alignt="center">Hello,
+Hello,
 
 I'm Titus, 21 years young and studying computer science at the FH Aachen - University of Applied Sciences. I started programming as a young boy and taught myself most of my knowledge. I'm mainly specialized in web technologies, but I also spend a lot of time on other things like microcontrollers or discord bots.
 
@@ -10,7 +10,7 @@ I also love to make my own four walls smarter and don't have to lift a finger to
 
 In my spare time I love to listen to music and apart from metal I'm open for any kind of music. I am also very interested in university politics, where I also work on a voluntary basis.
 
-Since 01.02.2020 I am self-employed beside my studies and run various online platforms and offer contract work and other IT services.</p>
+Since 01.02.2020 I am self-employed beside my studies and run various online platforms and offer contract work and other IT services.
 
 <h3 align="center">My current projects</h3>
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/68742599?s=400&u=d52e93ad500de44d4259a6d24bdf1d43ff5d1623&v=4" alt="justacdn" width="40" height="40"/> <img src="https://avatars0.githubusercontent.com/u/67844535?s=200&v=4" alt="openauth" width="40" height="40"/></p>
