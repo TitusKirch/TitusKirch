@@ -1,6 +1,6 @@
 <h1 align="center">Hello Titus Kirch</h1>
 <h3 align="center">Self-employed developer and student at the FH Aachen - University of Applied Siences.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tituskirch" alt="tituskirch" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tituskirch" alt="Profile views" title="Profile views"/></p>
 
 Hello,
 
@@ -21,13 +21,13 @@ Since 01.02.2020 I am self-employed beside my studies and run various online pla
 <h3 align="center">Socialmedia</h3>
 
 <p align="center">
-<a href="https://twitter.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" title="Twitter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30" /></a>
-<a href="https://fb.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" title="Facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" title="Instagram" height="30" width="30" /></a>
+<a href="https://twitter.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" title="Twitter" height="30" width="30"/></a>
+<a href="https://linkedin.com/in/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
+<a href="https://fb.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" title="Facebook" height="30" width="30"/></a>
+<a href="https://instagram.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" title="Instagram" height="30" width="30"/></a>
 </p>
 
 <h3 align="center">Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tituskirch&show_icons=true" alt="tituskirch" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tituskirch&layout=compact&hide=html" alt="tituskirch" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tituskirch&show_icons=true" alt="GitHub stats" title="GitHub stats/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tituskirch&layout=compact&hide=html" alt="Most used languages" title="Most used languages"/></p>
 
