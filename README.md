@@ -21,10 +21,10 @@ Since 01.02.2020 I am self-employed beside my studies and run various online pla
 <h3 align="center">Socialmedia</h3>
 
 <p align="center">
-<a href="https://twitter.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tituskirch" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tituskirch" height="30" width="30" /></a>
-<a href="https://fb.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tituskirch" height="30" width="30" /></a>
-<a href="https://instagram.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tituskirch" height="30" width="30" /></a>
+<a href="https://twitter.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" title="Twitter" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30" /></a>
+<a href="https://fb.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" title="Facebook" height="30" width="30" /></a>
+<a href="https://instagram.com/tituskirch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" title="Instagram" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Stats</h3>
