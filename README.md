@@ -28,6 +28,6 @@ Since 01.02.2020 I am self-employed beside my studies and run various online pla
 </p>
 
 <h3 align="center">Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tituskirch&show_icons=true" alt="GitHub stats" title="GitHub stats/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tituskirch&show_icons=true" alt="GitHub stats" title="GitHub stats"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tituskirch&layout=compact&hide=html" alt="Most used languages" title="Most used languages"/></p>
 
