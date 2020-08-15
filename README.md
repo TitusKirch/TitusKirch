@@ -33,8 +33,8 @@ Since 01.02.2020 I am self-employed beside my studies and run various online pla
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" title="Nuxt.js" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" width="40" height="40"/>
