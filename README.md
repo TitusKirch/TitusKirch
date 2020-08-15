@@ -1,4 +1,4 @@
-<h1 align="center">Hello Titus Kirch</h1>
+<h1 align="center">Titus Kirch</h1>
 <h3 align="center">Self-employed developer and student at the FH Aachen - University of Applied Siences.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tituskirch" alt="Profile views" title="Profile views"/></p>
 
