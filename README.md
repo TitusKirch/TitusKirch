@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on [Simple FAQ](https://github.com/tkirchDev/dev.tkirch.wsc.faq)
-
 - 📫 How to reach me **request@tkirch.dev**
 
 <h3 align="left">Connect with me:</h3>
