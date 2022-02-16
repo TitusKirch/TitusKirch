@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tituskirch" target="blank"><img src="https://img.shields.io/twitter/follow/tituskirch?logo=twitter&style=for-the-badge" alt="tituskirch" /></a> </p>
 
-- 🔭 I’m currently working on **Project One (a currently secret project)**
+- 🔭 I’m currently working on **[@GameUptime](https://github.com/GameUptime)**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes & Argo CD**
 
 - 📫 How to reach me **request@tkirch.dev**
 
