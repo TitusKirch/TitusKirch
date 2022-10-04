@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Titus Kirch</h1>
 <h3 align="center">An enthusiastic developer and student at the FH Aachen - University of Applied Siences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tituskirch&label=Profile%20views&color=0e75b6&style=flat" alt="tituskirch" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tituskirch" target="blank"><img src="https://img.shields.io/twitter/follow/tituskirch?logo=twitter&style=for-the-badge" alt="tituskirch" /></a> </p>
-
 - 🔭 I’m currently working on [High-Available k3s-Cluster using Hetzner Cloud](https://github.com/simonostendorf/k3s-hetzner)
 
 - 🌱 I’m currently learning **Kubernetes & Argo CD**
