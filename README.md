@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Kirch & Ostendorf](https://github.com/kdorfDev)<br>🌱 I’m currently learning **Kubernetes & Argo CD**<br>💬 Ask me about **Nuxt, Vue, NeestJS, Laravel, GraphQL**
+🔭 I’m currently working on [Kirch & Ostendorf](https://github.com/kdorfDev)<br>🌱 I’m currently learning **Kubernetes & Argo CD**<br>💬 Ask me about **Nuxt, Vue, NestJS, Laravel, GraphQL**
 
 
 ## 🌐 Socials:
