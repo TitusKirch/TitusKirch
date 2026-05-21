@@ -10,20 +10,10 @@ Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my pro
 [![Mail](https://img.shields.io/badge/contact%40kirch.dev-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kirch.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TitusKirch)
 [![X](https://img.shields.io/badge/@TitusKirch-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TitusKirch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TitusKirch)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cwFp2nx)
 
 </div>
-
----
-
-## 🧭 What I'm up to
-
-I design and ship full-stack web apps end-to-end — from Hetzner-hosted Kubernetes and Terraform-managed infra, through Laravel & Nuxt application layers, up to polished Vue 3 + Tailwind frontends. Most of my time goes into:
-
-- 📦 **[ContentStash](https://github.com/contentstash/contentstash)** — a headless CMS ecosystem on Laravel + Inertia + Vue 3.
-- 🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel, with multi-tenant scoping, native `Gate` integration, and decision tracing.
-- 🚀 **[saas-template](https://github.com/TitusKirch/saas-template)** — opinionated Laravel + Nuxt monorepo starter for new SaaS projects.
-- 🧪 Client work via [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) — custom web apps, dev consulting, infrastructure.
 
 ---
 
@@ -61,23 +51,44 @@ I design and ship full-stack web apps end-to-end — from Hetzner-hosted Kuberne
 
 ---
 
-## 🚀 Featured projects
+## 👉 Start here
 
-### 🛡️ [kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)
-Policy-based access control for Laravel — roles, permissions, multi-tenant scoping, decision tracing, and native `Gate` integration.
+🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration. The one I'm investing the most time into right now.
 
 ```php
 Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
 ```
 
-### 📦 [contentstash/contentstash](https://github.com/contentstash/contentstash)
-A headless CMS ecosystem built with Laravel, Inertia.js, Vue 3, and Tailwind CSS. The product I keep coming back to.
+---
 
-### 🚀 [TitusKirch/saas-template](https://github.com/TitusKirch/saas-template)
-A Laravel + Nuxt monorepo starter — back-end reliability of Laravel, front-end agility of Nuxt, batteries included for rapid SaaS prototyping.
+## 🧭 Current projects
 
-### 🎮 Side quests
-Modding tools and small utilities I build for games I play — [CIV7ModMerger](https://github.com/TitusKirch/CIV7ModMerger), [LethalCompanyModMerger](https://github.com/TitusKirch/LethalCompanyModMerger), [bullet-journal-calculator](https://github.com/TitusKirch/bullet-journal-calculator).
+**Laravel packages** ([kirchDev](https://github.com/kirchDev))
+- 🛡️ [`laravel-pbac`](https://github.com/kirchDev/laravel-pbac) — policy-based access control for Laravel
+- 🧰 More small packages spinning out of client work — watch [kirchDev](https://github.com/kirchDev)
+
+**Web apps**
+- 🌐 [kirch.dev](https://kirch.dev) — my company site (sources in [`kirchDev/app`](https://github.com/kirchDev/app))
+- 🧪 A handful of private client apps under [kirchDev](https://github.com/kirchDev)
+
+**Infrastructure**
+- ☸️ [`ha-hetzner-k8s-cluster`](https://github.com/TitusKirch/ha-hetzner-k8s-cluster) — HA Kubernetes on Hetzner Cloud, Terraform-managed
+- 🏗️ [`kirchDev/infrastructure`](https://github.com/kirchDev/infrastructure) — central IaC for everything kirchDev runs
+
+**Game-adjacent utilities**
+- 🎮 [`CIV7ModMerger`](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
+- 👻 [`LethalCompanyModMerger`](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
+- 📓 [`bullet-journal-calculator`](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
+
+---
+
+## 🪦 Older / stale projects
+
+Still online, still occasionally useful, but not getting active push right now.
+
+- 📦 [`contentstash`](https://github.com/contentstash/contentstash) — a headless CMS ecosystem on Laravel + Inertia + Vue 3. Paused.
+- 🚀 [`saas-template`](https://github.com/TitusKirch/saas-template) — Laravel + Nuxt monorepo SaaS starter. Snapshot of an earlier stack iteration.
+- 🧱 Various older templates and experiments: [`turbo-template`](https://github.com/TitusKirch/turbo-template), [`tailwind-post-scss-template`](https://github.com/TitusKirch/tailwind-post-scss-template), [`example-nuxt3-formkit-app`](https://github.com/TitusKirch/example-nuxt3-formkit-app), [`pageinfotype`](https://github.com/TitusKirch/pageinfotype).
 
 ---
 
@@ -92,13 +103,10 @@ Modding tools and small utilities I build for games I play — [CIV7ModMerger](h
 
 ---
 
-## 💬 Get in touch
-
-Open to interesting collaborations, freelance work, and good package ideas. Easiest ways to reach me:
+## 💬 Connect
 
 - 🌐 [kirch.dev](https://kirch.dev)
 - ✉️ [contact@kirch.dev](mailto:contact@kirch.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/TitusKirch)
 - 🐦 [X / @TitusKirch](https://x.com/TitusKirch)
-
-<sub>_Available for hire · Laravel · Vue / Nuxt · TypeScript · DevOps on Hetzner_ </sub>
+- 📸 [Instagram / @TitusKirch](https://instagram.com/TitusKirch)
