@@ -20,10 +20,8 @@ Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my pro
 ## 🛠️ Tech I reach for
 
 **Languages** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend** &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -63,31 +61,23 @@ Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
 
 ## 🧭 Current projects
 
-**Laravel packages** ([kirchDev](https://github.com/kirchDev))
-- 🛡️ [`laravel-pbac`](https://github.com/kirchDev/laravel-pbac) — policy-based access control for Laravel
-- 🧰 More small packages spinning out of client work — watch [kirchDev](https://github.com/kirchDev)
-
-**Web & client work**
-- 🌐 [kirch.dev](https://kirch.dev) — my company site
-- 🧪 Custom web apps and dev consulting via [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev)
-
-**Infrastructure**
-- ☸️ Self-hosted Kubernetes on Hetzner Cloud, Terraform-managed end-to-end
-
-**Game-adjacent utilities**
-- 🎮 [`CIV7ModMerger`](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
-- 👻 [`LethalCompanyModMerger`](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
-- 📓 [`bullet-journal-calculator`](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
+- 🌐 [**kirch.dev**](https://kirch.dev) — my company site for _IT-Dienstleistungen Titus Kirch_
+- 🎮 [**CIV7ModMerger**](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
+- 👻 [**LethalCompanyModMerger**](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
+- 📓 [**bullet-journal-calculator**](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
 
 ---
 
-## 🪦 Older / stale projects
+## 🪦 Older / paused projects
 
 Still online, still occasionally useful, but not getting active push right now.
 
-- 📦 [`contentstash`](https://github.com/contentstash/contentstash) — a headless CMS ecosystem on Laravel + Inertia + Vue 3. Paused.
-- 🚀 [`saas-template`](https://github.com/TitusKirch/saas-template) — Laravel + Nuxt monorepo SaaS starter. Snapshot of an earlier stack iteration.
-- 🧱 Various older templates and experiments: [`turbo-template`](https://github.com/TitusKirch/turbo-template), [`tailwind-post-scss-template`](https://github.com/TitusKirch/tailwind-post-scss-template), [`example-nuxt3-formkit-app`](https://github.com/TitusKirch/example-nuxt3-formkit-app), [`pageinfotype`](https://github.com/TitusKirch/pageinfotype).
+- 📦 [**contentstash**](https://github.com/contentstash/contentstash) — headless CMS ecosystem on Laravel + Inertia + Vue 3
+- 🚀 [**saas-template**](https://github.com/TitusKirch/saas-template) — Laravel + Nuxt monorepo SaaS starter
+- 🧱 [**turbo-template**](https://github.com/TitusKirch/turbo-template) — Turborepo starter
+- 🎨 [**tailwind-post-scss-template**](https://github.com/TitusKirch/tailwind-post-scss-template) — Tailwind + PostCSS + node-sass starter
+- 📋 [**example-nuxt3-formkit-app**](https://github.com/TitusKirch/example-nuxt3-formkit-app) — Nuxt 3 + FormKit example
+- 📄 [**pageinfotype**](https://github.com/TitusKirch/pageinfotype) — Relay-spec PageInfoType for Apollo Server
 
 ---
 
