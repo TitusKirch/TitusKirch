@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer** · Aachen, Germany · B.Sc. Computer Science
 
-I build tailor-made web applications and help businesses strengthen their digital presence — working as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) and shipping under [**kirchDev**](https://github.com/kirchDev).
+I build tailor-made web applications and help businesses strengthen their digital presence - working as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) and shipping under [**kirchDev**](https://github.com/kirchDev).
 
 [![Website](https://img.shields.io/badge/kirch.dev-0b0b0b?style=for-the-badge&logo=globe&logoColor=white)](https://kirch.dev)
 [![Mail](https://img.shields.io/badge/contact%40kirch.dev-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kirch.dev)
@@ -56,7 +56,7 @@ I build tailor-made web applications and help businesses strengthen their digita
 
 ## 🧭 Current projects
 
-🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration.
+🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration.
 
 ```php
 Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
@@ -68,15 +68,15 @@ Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
 
 Still online, still occasionally useful, but not getting active push right now.
 
-- 📦 [**contentstash**](https://github.com/contentstash/contentstash) — headless CMS ecosystem on Laravel + Inertia + Vue 3
-- 🚀 [**saas-template**](https://github.com/TitusKirch/saas-template) — Laravel + Nuxt monorepo SaaS starter
-- 🎮 [**CIV7ModMerger**](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
-- 👻 [**LethalCompanyModMerger**](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
-- 📓 [**bullet-journal-calculator**](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
-- 🧱 [**turbo-template**](https://github.com/TitusKirch/turbo-template) — Turborepo starter
-- 🎨 [**tailwind-post-scss-template**](https://github.com/TitusKirch/tailwind-post-scss-template) — Tailwind + PostCSS + node-sass starter
-- 📋 [**example-nuxt3-formkit-app**](https://github.com/TitusKirch/example-nuxt3-formkit-app) — Nuxt 3 + FormKit example
-- 📄 [**pageinfotype**](https://github.com/TitusKirch/pageinfotype) — Relay-spec PageInfoType for Apollo Server
+- 📦 [**contentstash**](https://github.com/contentstash/contentstash) - headless CMS ecosystem on Laravel + Inertia + Vue 3
+- 🚀 [**saas-template**](https://github.com/TitusKirch/saas-template) - Laravel + Nuxt monorepo SaaS starter
+- 🎮 [**CIV7ModMerger**](https://github.com/TitusKirch/CIV7ModMerger) - merge mods for Civilization VII
+- 👻 [**LethalCompanyModMerger**](https://github.com/TitusKirch/LethalCompanyModMerger) - same idea for Lethal Company
+- 📓 [**bullet-journal-calculator**](https://github.com/TitusKirch/bullet-journal-calculator) - small Vue tool I built for myself
+- 🧱 [**turbo-template**](https://github.com/TitusKirch/turbo-template) - Turborepo starter
+- 🎨 [**tailwind-post-scss-template**](https://github.com/TitusKirch/tailwind-post-scss-template) - Tailwind + PostCSS + node-sass starter
+- 📋 [**example-nuxt3-formkit-app**](https://github.com/TitusKirch/example-nuxt3-formkit-app) - Nuxt 3 + FormKit example
+- 📄 [**pageinfotype**](https://github.com/TitusKirch/pageinfotype) - Relay-spec PageInfoType for Apollo Server
 
 ---
 
