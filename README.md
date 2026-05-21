@@ -1,8 +1,8 @@
 # Hi, I'm Titus 👋
 
-📍 **Aachen, Germany** | 💻 **Full-Stack Web Developer** | 🎓 **B.Sc. Computer Science**
+📍 **Aachen, Germany** | 💻 **Full-Stack Web Developer** | 🏢 **[kirchDev](https://github.com/kirchDev)**
 
-Building tailor-made web apps as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) and shipping open source under [**kirchDev**](https://github.com/kirchDev).
+Building tailor-made web apps as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev), shipping open source under [**kirchDev**](https://github.com/kirchDev). B.Sc. Computer Science.
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
