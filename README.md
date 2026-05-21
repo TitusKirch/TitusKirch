@@ -1,35 +1,104 @@
-## 💫 About Me:
-🔭 I’m currently working on [ContentStash](https://github.com/contentstash)<br>💬 Ask me about **Vue, Nuxt, PHP, Laravel & GraphQL**
+<div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cwFp2nx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TitusKirch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TitusKirch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TitusKirch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TitusKirch) 
+# Hi, I'm Titus 👋
 
-## 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+**Aachen, Germany** · Self-employed Web Developer · B.Sc. Computer Science
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TitusKirch&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my products, packages, and client work under [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev).
 
-[![](https://visitcount.itsvg.in/api?id=TitusKirch&icon=0&color=12)](https://visitcount.itsvg.in)
+[![Website](https://img.shields.io/badge/kirch.dev-0b0b0b?style=for-the-badge&logo=globe&logoColor=white)](https://kirch.dev)
+[![Mail](https://img.shields.io/badge/contact%40kirch.dev-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kirch.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TitusKirch)
+[![X](https://img.shields.io/badge/@TitusKirch-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TitusKirch)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cwFp2nx)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 🧭 What I'm up to
+
+I design and ship full-stack web apps end-to-end — from Hetzner-hosted Kubernetes and Terraform-managed infra, through Laravel & Nuxt application layers, up to polished Vue 3 + Tailwind frontends. Most of my time goes into:
+
+- 📦 **[ContentStash](https://github.com/contentstash/contentstash)** — a headless CMS ecosystem on Laravel + Inertia + Vue 3.
+- 🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel, with multi-tenant scoping, native `Gate` integration, and decision tracing.
+- 🚀 **[saas-template](https://github.com/TitusKirch/saas-template)** — opinionated Laravel + Nuxt monorepo starter for new SaaS projects.
+- 🧪 Client work via [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) — custom web apps, dev consulting, infrastructure.
+
+---
+
+## 🛠️ Tech I reach for
+
+**Languages** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-5835CC?style=flat-square&logo=terraform&logoColor=white)
+
+**Backend** &nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend** &nbsp;
+![Vue.js](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82)
+![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Infra & Tooling** &nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220)
+
+---
+
+## 🚀 Featured projects
+
+### 🛡️ [kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)
+Policy-based access control for Laravel — roles, permissions, multi-tenant scoping, decision tracing, and native `Gate` integration.
+
+```php
+Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
+```
+
+### 📦 [contentstash/contentstash](https://github.com/contentstash/contentstash)
+A headless CMS ecosystem built with Laravel, Inertia.js, Vue 3, and Tailwind CSS. The product I keep coming back to.
+
+### 🚀 [TitusKirch/saas-template](https://github.com/TitusKirch/saas-template)
+A Laravel + Nuxt monorepo starter — back-end reliability of Laravel, front-end agility of Nuxt, batteries included for rapid SaaS prototyping.
+
+### 🎮 Side quests
+Modding tools and small utilities I build for games I play — [CIV7ModMerger](https://github.com/TitusKirch/CIV7ModMerger), [LethalCompanyModMerger](https://github.com/TitusKirch/LethalCompanyModMerger), [bullet-journal-calculator](https://github.com/TitusKirch/bullet-journal-calculator).
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitusKirch&theme=vue-dark&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 💬 Get in touch
+
+Open to interesting collaborations, freelance work, and good package ideas. Easiest ways to reach me:
+
+- 🌐 [kirch.dev](https://kirch.dev)
+- ✉️ [contact@kirch.dev](mailto:contact@kirch.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/TitusKirch)
+- 🐦 [X / @TitusKirch](https://x.com/TitusKirch)
+
+<sub>_Available for hire · Laravel · Vue / Nuxt · TypeScript · DevOps on Hetzner_ </sub>
