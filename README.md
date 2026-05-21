@@ -49,22 +49,13 @@ Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my pro
 
 ---
 
-## 👉 Start here
+## 🧭 Current projects
 
-🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration. The one I'm investing the most time into right now.
+🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** — policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration.
 
 ```php
 Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
 ```
-
----
-
-## 🧭 Current projects
-
-- 🌐 [**kirch.dev**](https://kirch.dev) — my company site for _IT-Dienstleistungen Titus Kirch_
-- 🎮 [**CIV7ModMerger**](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
-- 👻 [**LethalCompanyModMerger**](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
-- 📓 [**bullet-journal-calculator**](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
 
 ---
 
@@ -74,21 +65,13 @@ Still online, still occasionally useful, but not getting active push right now.
 
 - 📦 [**contentstash**](https://github.com/contentstash/contentstash) — headless CMS ecosystem on Laravel + Inertia + Vue 3
 - 🚀 [**saas-template**](https://github.com/TitusKirch/saas-template) — Laravel + Nuxt monorepo SaaS starter
+- 🎮 [**CIV7ModMerger**](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
+- 👻 [**LethalCompanyModMerger**](https://github.com/TitusKirch/LethalCompanyModMerger) — same idea for Lethal Company
+- 📓 [**bullet-journal-calculator**](https://github.com/TitusKirch/bullet-journal-calculator) — small Vue tool I built for myself
 - 🧱 [**turbo-template**](https://github.com/TitusKirch/turbo-template) — Turborepo starter
 - 🎨 [**tailwind-post-scss-template**](https://github.com/TitusKirch/tailwind-post-scss-template) — Tailwind + PostCSS + node-sass starter
 - 📋 [**example-nuxt3-formkit-app**](https://github.com/TitusKirch/example-nuxt3-formkit-app) — Nuxt 3 + FormKit example
 - 📄 [**pageinfotype**](https://github.com/TitusKirch/pageinfotype) — Relay-spec PageInfoType for Apollo Server
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitusKirch&theme=vue-dark&hide_border=true&layout=compact&langs_count=8)
-
-</div>
 
 ---
 
