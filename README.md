@@ -2,9 +2,9 @@
 
 # Hi, I'm Titus 👋
 
-**Aachen, Germany** · Self-employed Web Developer · B.Sc. Computer Science
+**Full-Stack Web Developer** · Aachen, Germany · B.Sc. Computer Science
 
-Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my products, packages, and client work under [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev).
+I build tailor-made web applications and help businesses strengthen their digital presence — working as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) and shipping under [**kirchDev**](https://github.com/kirchDev).
 
 [![Website](https://img.shields.io/badge/kirch.dev-0b0b0b?style=for-the-badge&logo=globe&logoColor=white)](https://kirch.dev)
 [![Mail](https://img.shields.io/badge/contact%40kirch.dev-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kirch.dev)
@@ -23,29 +23,34 @@ Building [**kirchDev**](https://github.com/kirchDev) — the umbrella for my pro
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Backend** &nbsp;
+**Backend & data** &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-F73FA0?style=flat-square&logo=pest&logoColor=white)
 
 **Frontend** &nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82)
 ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn-vue](https://img.shields.io/badge/shadcn--vue-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Infra & Tooling** &nbsp;
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+**Infra & tooling** &nbsp;
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
