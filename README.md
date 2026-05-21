@@ -1,35 +1,56 @@
-## 💫 About Me:
-🔭 I’m currently working on [ContentStash](https://github.com/contentstash)<br>💬 Ask me about **Vue, Nuxt, PHP, Laravel & GraphQL**
+# Hi, I'm Titus 👋
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cwFp2nx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TitusKirch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TitusKirch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TitusKirch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TitusKirch) 
+📍 **Aachen, Germany** | 💻 **Full-Stack Web Developer** | 🎓 **B.Sc. Computer Science**
 
-## 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+Building tailor-made web apps as [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) and shipping open source under [**kirchDev**](https://github.com/kirchDev).
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TitusKirch&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitusKirch&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Inertia](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=00DC82)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=TitusKirch&icon=0&color=12)](https://visitcount.itsvg.in)
+## Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Laravel Packages
+
+- 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - multi-tenant policy-based access control for Laravel with native `Gate` integration
+
+### Paused Projects
+
+Active work is paused, but the project isn't abandoned — I plan to pick it back up.
+
+- 📦 **[contentstash](https://github.com/contentstash/contentstash)** - headless CMS ecosystem on Laravel + Inertia + Vue 3
+
+### Legacy Projects
+
+Older work — kept online for reference, no longer maintained.
+
+- 🚀 **[saas-template](https://github.com/TitusKirch/saas-template)** - Laravel + Nuxt monorepo SaaS starter
+- 🎮 **[CIV7ModMerger](https://github.com/TitusKirch/CIV7ModMerger)** - merge mods for Civilization VII
+- 👻 **[LethalCompanyModMerger](https://github.com/TitusKirch/LethalCompanyModMerger)** - same idea for Lethal Company
+- 📓 **[bullet-journal-calculator](https://github.com/TitusKirch/bullet-journal-calculator)** - small Vue tool I built for myself
+- 🧱 **[turbo-template](https://github.com/TitusKirch/turbo-template)** - Turborepo starter
+- 🎨 **[tailwind-post-scss-template](https://github.com/TitusKirch/tailwind-post-scss-template)** - Tailwind + PostCSS + node-sass starter
+- 📋 **[example-nuxt3-formkit-app](https://github.com/TitusKirch/example-nuxt3-formkit-app)** - Nuxt 3 + FormKit example
+- 📄 **[pageinfotype](https://github.com/TitusKirch/pageinfotype)** - Relay-spec PageInfoType for Apollo Server
+- 🧪 **[Example-TypeScript-Apollo-Server](https://github.com/TitusKirch/Example-TypeScript-Apollo-Server)** - Apollo Server in TypeScript example with ESLint + VSC config
+- 💾 **[webBackup](https://github.com/TitusKirch/webBackup)** - feature-rich, automated backup script for web applications
+- 🔑 **[common-passwords](https://github.com/TitusKirch/common-passwords)** - list of common passwords that should not be accepted
+- 🔗 **[dev.tkirch.wsc.graphql](https://github.com/tkirchDev/dev.tkirch.wsc.graphql)** - extensible GraphQL schema and API for your WSC page
+- 🐘 **[dev.tkirch.wsc.graphql-php](https://github.com/tkirchDev/dev.tkirch.wsc.graphql-php)** - `graphql-php` as a WSC package
+- 🎮 **[dev.tkirch.wsc.nitrapi-php](https://github.com/tkirchDev/dev.tkirch.wsc.nitrapi-php)** - Nitrapi PHP SDK as a WSC package
+- 🪪 **[dev.tkirch.wsc.php-jwt](https://github.com/tkirchDev/dev.tkirch.wsc.php-jwt)** - `PHP-JWT` as a WSC package
+- ❓ **[dev.hanashi.wsc.faq](https://github.com/HanashiDev/dev.hanashi.wsc.faq)** - a simple and powerful FAQ for your WSC (formerly `dev.tkirch.wsc.faq`, now maintained by [HanashiDev](https://github.com/HanashiDev))
+
+## Connect
+
+[![Mail](https://img.shields.io/badge/-contact%40kirch.dev-1a73e8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@kirch.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://linkedin.com/in/TitusKirch)
+[![X](https://img.shields.io/badge/-@TitusKirch-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TitusKirch)
+[![Instagram](https://img.shields.io/badge/-@TitusKirch-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/TitusKirch)
+[![Discord](https://img.shields.io/badge/-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cwFp2nx)
