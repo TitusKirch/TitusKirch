@@ -67,13 +67,12 @@ Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
 - 🛡️ [`laravel-pbac`](https://github.com/kirchDev/laravel-pbac) — policy-based access control for Laravel
 - 🧰 More small packages spinning out of client work — watch [kirchDev](https://github.com/kirchDev)
 
-**Web apps**
-- 🌐 [kirch.dev](https://kirch.dev) — my company site (sources in [`kirchDev/app`](https://github.com/kirchDev/app))
-- 🧪 A handful of private client apps under [kirchDev](https://github.com/kirchDev)
+**Web & client work**
+- 🌐 [kirch.dev](https://kirch.dev) — my company site
+- 🧪 Custom web apps and dev consulting via [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev)
 
 **Infrastructure**
-- ☸️ [`ha-hetzner-k8s-cluster`](https://github.com/TitusKirch/ha-hetzner-k8s-cluster) — HA Kubernetes on Hetzner Cloud, Terraform-managed
-- 🏗️ [`kirchDev/infrastructure`](https://github.com/kirchDev/infrastructure) — central IaC for everything kirchDev runs
+- ☸️ Self-hosted Kubernetes on Hetzner Cloud, Terraform-managed end-to-end
 
 **Game-adjacent utilities**
 - 🎮 [`CIV7ModMerger`](https://github.com/TitusKirch/CIV7ModMerger) — merge mods for Civilization VII
