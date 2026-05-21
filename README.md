@@ -56,11 +56,9 @@ I build tailor-made web applications and help businesses strengthen their digita
 
 ## 🧭 Current projects
 
-🛡️ **[kirchDev/laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - policy-based access control for Laravel. Roles, permissions, multi-tenant scoping, decision tracing, native `Gate` integration.
+### Laravel packages
 
-```php
-Pbac::withOrganisation($org->id, fn () => $user->can('members.invite')); // ✅
-```
+- 🛡️ [**kirchDev/laravel-pbac**](https://github.com/kirchDev/laravel-pbac) - multi-tenant policy-based access control for Laravel with native `Gate` integration
 
 ---
 
