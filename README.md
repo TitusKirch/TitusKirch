@@ -2,7 +2,7 @@
 
 📍 **Aachen, Germany** | 💻 **Full-Stack Web Developer** | 🏢 **[@kirchDev](https://github.com/kirchDev)**
 
-I help businesses build reliable, tailor-made web applications through [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev) — and ship the open source side of my work under [**@kirchDev**](https://github.com/kirchDev).
+Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.dev). This account is my personal sandbox — open source packages and product work live under [**@kirchDev**](https://github.com/kirchDev).
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
