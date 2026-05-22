@@ -23,13 +23,14 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 
 - 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - Policy-based access control for Laravel: roles, permissions, organisation-scoped authorization, Gate integration, and a decision cache.
 - 🧠 **[skills](https://github.com/TitusKirch/skills)** - Agent skills by Titus Kirch — installable via skills.sh in Claude Code, Cursor, Windsurf and friends.
+- 🏗️ **[scaffold](https://github.com/TitusKirch/scaffold)** - Language-agnostic baseline template for new kirchDev repositories.
 
 ### Work in Progress
 
 Early-stage things I am currently building — expect rough edges.
 
-- 🗺️ **[forgemap](https://github.com/TitusKirch/forgemap)** - WIP — CLI for managing a local repo layout (gitserver/org/repo) on top of gh.
-- 🏗️ **[scaffold](https://github.com/TitusKirch/scaffold)** - WIP — language-agnostic template repo with the kirchDev house tooling baseline.
+- 🗺️ **[forgemap](https://github.com/TitusKirch/forgemap)** - CLI that manages a local repo layout under ~/projects/<gitserver>/<org>/<repo>.
+- 🌈 **[envprism](https://github.com/TitusKirch/envprism)** - WIP — TUI to view, diff and edit multiple .env files side by side.
 
 ### Paused Projects
 

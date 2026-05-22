@@ -8,6 +8,8 @@ categories:
         emoji: '🛡️'
       - repo: TitusKirch/skills
         emoji: '🧠'
+      - repo: TitusKirch/scaffold
+        emoji: '🏗️'
 
   - id: wip
     title: 'Work in Progress'
@@ -15,8 +17,8 @@ categories:
     items:
       - repo: TitusKirch/forgemap
         emoji: '🗺️'
-      - repo: TitusKirch/scaffold
-        emoji: '🏗️'
+      - repo: TitusKirch/envprism
+        emoji: '🌈'
 
   - id: paused
     title: 'Paused Projects'
