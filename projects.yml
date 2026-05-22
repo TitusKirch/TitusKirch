@@ -8,6 +8,11 @@ categories:
         emoji: '🛡️'
       - repo: TitusKirch/skills
         emoji: '🧠'
+
+  - id: wip
+    title: 'Work in Progress'
+    intro: 'Early-stage things I am currently building — expect rough edges.'
+    items:
       - repo: TitusKirch/forgemap
         emoji: '🗺️'
       - repo: TitusKirch/scaffold
