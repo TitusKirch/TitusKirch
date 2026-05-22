@@ -1,0 +1,56 @@
+min_stars: 5
+
+categories:
+  - id: packages
+    title: 'Laravel Packages'
+    items:
+      - repo: kirchDev/laravel-pbac
+        emoji: '🛡️'
+
+  - id: paused
+    title: 'Paused Projects'
+    intro: "Active work is paused, but the project isn't abandoned — I plan to pick it back up."
+    items:
+      - repo: contentstash/contentstash
+        emoji: '📦'
+
+  - id: legacy
+    title: 'Legacy Projects'
+    intro: 'Older work — kept online for reference, no longer maintained.'
+    items:
+      - repo: TitusKirch-archive/saas-template
+        emoji: '🚀'
+      - repo: TitusKirch-archive/CIV7ModMerger
+        emoji: '🎮'
+      - repo: TitusKirch-archive/LethalCompanyModMerger
+        emoji: '👻'
+      - repo: TitusKirch-archive/bullet-journal-calculator
+        emoji: '📓'
+      - repo: TitusKirch-archive/turbo-template
+        emoji: '🧱'
+      - repo: TitusKirch-archive/tailwind-post-scss-template
+        emoji: '🎨'
+      - repo: TitusKirch-archive/example-nuxt3-formkit-app
+        emoji: '📋'
+      - repo: TitusKirch-archive/pageinfotype
+        emoji: '📄'
+      - repo: TitusKirch-archive/Example-TypeScript-Apollo-Server
+        emoji: '🧪'
+      - repo: TitusKirch-archive/webBackup
+        emoji: '💾'
+      - repo: TitusKirch-archive/common-passwords
+        emoji: '🔑'
+      - repo: TitusKirch-archive/fsr5-fhaachen-portals
+        emoji: '🎓'
+      - repo: TitusKirch-archive/fsr5-fhaachen-strichlistensystem
+        emoji: '📊'
+      - repo: tkirchDev/dev.tkirch.wsc.graphql
+        emoji: '🔗'
+      - repo: tkirchDev/dev.tkirch.wsc.graphql-php
+        emoji: '🐘'
+      - repo: tkirchDev/dev.tkirch.wsc.nitrapi-php
+        emoji: '🎮'
+      - repo: tkirchDev/dev.tkirch.wsc.php-jwt
+        emoji: '🪪'
+      - repo: HanashiDev/dev.hanashi.wsc.faq
+        emoji: '❓'
