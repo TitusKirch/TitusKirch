@@ -1,0 +1,47 @@
+{
+  "$schema": "https://www.schemastore.org/package.json",
+  "name": "@tituskirch/profile",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sources for the github.com/TitusKirch profile README — manifest + renderer for the auto-synced projects list.",
+  "homepage": "https://github.com/TitusKirch/TitusKirch#readme",
+  "bugs": {
+    "url": "https://github.com/TitusKirch/TitusKirch/issues"
+  },
+  "license": "MIT",
+  "author": "Titus Kirch <titus.kirch@kirch.dev>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitusKirch/TitusKirch.git"
+  },
+  "type": "module",
+  "scripts": {
+    "lint": "oxlint . --deny-warnings",
+    "lint:fix": "oxlint . --fix --deny-warnings",
+    "format": "oxfmt --check .",
+    "format:fix": "oxfmt .",
+    "check": "pnpm lint && pnpm format",
+    "check:fix": "pnpm lint:fix && pnpm format:fix",
+    "render": "node scripts/render-readme.mjs",
+    "bootstrap:descriptions": "node scripts/bootstrap-descriptions.mjs",
+    "taze": "taze",
+    "taze:w": "taze -w",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.1",
+    "@commitlint/config-conventional": "^21.0.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.5",
+    "oxfmt": "0.51.0",
+    "oxlint": "1.66.0",
+    "taze": "^19.13.0"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "packageManager": "pnpm@11.2.2"
+}
