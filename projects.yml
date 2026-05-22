@@ -8,6 +8,10 @@ categories:
         emoji: '🛡️'
       - repo: TitusKirch/skills
         emoji: '🧠'
+      - repo: TitusKirch/forgemap
+        emoji: '🗺️'
+      - repo: TitusKirch/scaffold
+        emoji: '🏗️'
 
   - id: paused
     title: 'Paused Projects'
