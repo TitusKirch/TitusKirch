@@ -34,7 +34,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 
 Early-stage things I am currently building — expect rough edges.
 
-- 🟠 **[amber](https://github.com/TitusKirch/amber)** - WIP — Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
+- 🔶 **[amber](https://github.com/TitusKirch/amber)** - WIP — Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
 
 ### Paused Projects
 
