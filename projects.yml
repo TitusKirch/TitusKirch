@@ -10,15 +10,15 @@ categories:
         emoji: '🧠'
       - repo: TitusKirch/scaffold
         emoji: '🏗️'
-
-  - id: wip
-    title: 'Work in Progress'
-    intro: 'Early-stage things I am currently building — expect rough edges.'
-    items:
       - repo: TitusKirch/forgemap
         emoji: '🗺️'
       - repo: TitusKirch/envprism
         emoji: '🌈'
+
+  - id: wip
+    title: 'Work in Progress'
+    intro: 'Early-stage things I am currently building — expect rough edges.'
+    items: []
 
   - id: paused
     title: 'Paused Projects'
