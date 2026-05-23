@@ -30,6 +30,12 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🗺️ **[forgemap](https://github.com/TitusKirch/forgemap)** - CLI that manages a local repo layout grouped by git server, organization and repository name.
 - 🔻 **[envprism](https://github.com/TitusKirch/envprism)** - TUI-based env file manager — refract one set of variables into many environment views.
 
+### Work in Progress
+
+Early-stage things I am currently building — expect rough edges.
+
+- 🔶 **[amber](https://github.com/TitusKirch/amber)** - WIP — Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
+
 ### Paused Projects
 
 Active work is paused, but the project isn't abandoned — I plan to pick it back up.

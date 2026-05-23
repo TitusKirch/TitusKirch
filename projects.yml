@@ -22,7 +22,9 @@ categories:
   - id: wip
     title: 'Work in Progress'
     intro: 'Early-stage things I am currently building — expect rough edges.'
-    items: []
+    items:
+      - repo: TitusKirch/amber
+        emoji: '🔶'
 
   - id: paused
     title: 'Paused Projects'
