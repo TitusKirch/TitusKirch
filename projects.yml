@@ -6,6 +6,10 @@ categories:
     items:
       - repo: kirchDev/laravel-pbac
         emoji: '🛡️'
+
+  - id: tools
+    title: 'Tools'
+    items:
       - repo: TitusKirch/skills
         emoji: '🧠'
       - repo: TitusKirch/scaffold
