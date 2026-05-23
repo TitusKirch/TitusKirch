@@ -15,12 +15,15 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
 
       - uses: pnpm/action-setup@0e279bb959325dab635dd2c09392533439d90093 # v6.0.8
 
@@ -37,14 +40,32 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit changes
+      - name: Open or update sync PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: sync projects list"
-            git push
-          else
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
             echo "No changes."
+            exit 0
           fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B bot/sync-projects
+          git add README.md
+          git commit -m "chore: sync projects list"
+          git push -f origin bot/sync-projects
+
+          existing=$(gh pr list --base main --head bot/sync-projects --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            echo "PR #$existing already open — force-push updated it."
+            exit 0
+          fi
+
+          gh pr create \
+            --base main \
+            --head bot/sync-projects \
+            --title "chore: sync projects list" \
+            --body "Automated sync of the rendered projects list from \`projects.yml\` + live GitHub repo metadata." \
+            --assignee TitusKirch
