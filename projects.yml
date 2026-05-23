@@ -11,13 +11,13 @@ categories:
     title: 'Tools'
     items:
       - repo: TitusKirch/skills
-        emoji: '🧠'
+        emoji: '🧩'
       - repo: TitusKirch/scaffold
         emoji: '🏗️'
       - repo: TitusKirch/forgemap
         emoji: '🗺️'
       - repo: TitusKirch/envprism
-        emoji: '🌈'
+        emoji: '🔻'
 
   - id: wip
     title: 'Work in Progress'
