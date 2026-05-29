@@ -25,6 +25,8 @@ categories:
     items:
       - repo: TitusKirch/amber
         emoji: '🔶'
+      - repo: TitusKirch/glimpse
+        emoji: '👀'
 
   - id: paused
     title: 'Paused Projects'
