@@ -6,6 +6,8 @@ categories:
     items:
       - repo: kirchDev/laravel-pbac
         emoji: '🛡️'
+      - repo: kirchDev/laravel-device-sessions
+        emoji: '📱'
 
   - id: tools
     title: 'Tools'
