@@ -22,6 +22,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 ### Packages
 
 - 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - Policy-based access control for Laravel: roles, permissions, organisation-scoped authorization, Gate integration, and a decision cache.
+- 📱 **[laravel-device-sessions](https://github.com/kirchDev/laravel-device-sessions)** - Device-bound login sessions for Laravel: per-device remember-me tokens, a "where am I signed in" device list, and revoke/rename — privacy-respecting and Fortify-agnostic.
 
 ### Tools
 
@@ -35,7 +36,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 Early-stage things I am currently building — expect rough edges.
 
 - 🔶 **[amber](https://github.com/TitusKirch/amber)** - Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
-- 👀 **[glimpse](https://github.com/TitusKirch/glimpse)** - Ultra-lightweight, passive Git diff & graph viewer built for developers who pair with terminal AI agents.
+- 👀 **[glimpse](https://github.com/TitusKirch/glimpse)** - Lightweight, git-native desktop Git client — branch graph & diffs with first-class WSL support.
 
 ### Paused Projects
 
