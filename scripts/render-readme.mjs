@@ -81,8 +81,11 @@ for (const cat of cfg.categories) {
     const d = byRepo.get(i.repo);
     const stars = d.stargazers_count ?? 0;
     const badge = stars >= minStars ? ` (${starLabel(stars)})` : '';
+    const icon = i.logo
+      ? `<img src="${i.logo}" alt="" width="20" height="20" align="top" />`
+      : i.emoji;
     lines.push(
-      `- ${i.emoji} **[${d.name}](${d.html_url})**${badge} - ${d.description.trim()}`
+      `- ${icon} **[${d.name}](${d.html_url})**${badge} - ${d.description.trim()}`
     );
   }
   lines.push('');
