@@ -22,6 +22,7 @@ categories:
         emoji: '🔻'
       - repo: TitusKirch/glimpse
         emoji: '👀'
+        logo: 'https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png'
 
   - id: wip
     title: 'Work in Progress'
