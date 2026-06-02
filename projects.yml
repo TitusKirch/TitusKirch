@@ -20,6 +20,8 @@ categories:
         emoji: '🗺️'
       - repo: TitusKirch/envprism
         emoji: '🔻'
+      - repo: TitusKirch/glimpse
+        emoji: '👀'
 
   - id: wip
     title: 'Work in Progress'
@@ -27,8 +29,6 @@ categories:
     items:
       - repo: TitusKirch/amber
         emoji: '🔶'
-      - repo: TitusKirch/glimpse
-        emoji: '👀'
 
   - id: paused
     title: 'Paused Projects'

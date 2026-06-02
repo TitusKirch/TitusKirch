@@ -22,6 +22,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 ### Packages
 
 - 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - Policy-based access control for Laravel: roles, permissions, organisation-scoped authorization, Gate integration, and a decision cache.
+- 📱 **[laravel-device-sessions](https://github.com/kirchDev/laravel-device-sessions)** - Device-bound login sessions for Laravel: per-device remember-me tokens, a "where am I signed in" device list, and revoke/rename — privacy-respecting and Fortify-agnostic.
 
 ### Tools
 
@@ -29,13 +30,13 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🏗️ **[scaffold](https://github.com/TitusKirch/scaffold)** - Language-agnostic baseline template for new kirchDev repositories.
 - 🗺️ **[forgemap](https://github.com/TitusKirch/forgemap)** - CLI that manages a local repo layout grouped by git server, organization and repository name.
 - 🔻 **[envprism](https://github.com/TitusKirch/envprism)** - TUI-based env file manager — refract one set of variables into many environment views.
+- 👀 **[glimpse](https://github.com/TitusKirch/glimpse)** - Lightweight, git-native desktop Git client — branch graph & diffs with first-class WSL support.
 
 ### Work in Progress
 
 Early-stage things I am currently building — expect rough edges.
 
-- 🔶 **[amber](https://github.com/TitusKirch/amber)** - WIP — Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
-- 👀 **[glimpse](https://github.com/TitusKirch/glimpse)** - Ultra-lightweight, passive Git diff & graph viewer built for developers who pair with terminal AI agents.
+- 🔶 **[amber](https://github.com/TitusKirch/amber)** - Git/GitHub backup tool: preserve repos with their full metadata (issues, PRs, releases, wikis).
 
 ### Paused Projects
 
