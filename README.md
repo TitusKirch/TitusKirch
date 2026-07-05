@@ -66,7 +66,7 @@ Older work — kept online for reference, no longer maintained.
 - 🐘 **[dev.tkirch.wsc.graphql-php](https://github.com/tkirchDev/dev.tkirch.wsc.graphql-php)** - Provides the "graphql-php" library at the WSC.
 - 🎮 **[dev.tkirch.wsc.nitrapi-php](https://github.com/tkirchDev/dev.tkirch.wsc.nitrapi-php)** - Titus version of the PHP SDK for the Nitrapi RESTful API.
 - 🪪 **[dev.tkirch.wsc.php-jwt](https://github.com/tkirchDev/dev.tkirch.wsc.php-jwt)** - Provides the "PHP-JWT" library at the WSC.
-- ❓ **[dev.hanashi.wsc.faq](https://github.com/HanashiDev/dev.hanashi.wsc.faq)** (6 stars) - A simple and powerful FAQ for your WSC.
+- ❓ **[dev.hanashi.wsc.faq](https://github.com/HanashiDev/dev.hanashi.wsc.faq)** (7 stars) - A simple and powerful FAQ for your WSC.
 
 <!-- PROJECTS:END -->
 
