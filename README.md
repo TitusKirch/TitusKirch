@@ -31,6 +31,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🗺️ **[forgemap](https://github.com/TitusKirch/forgemap)** - CLI that manages a local repo layout grouped by git server, organization and repository name.
 - 🔻 **[envprism](https://github.com/TitusKirch/envprism)** - TUI-based env file manager — refract one set of variables into many environment views.
 - <img src="https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png" alt="" width="20" height="20" align="top" /> **[glimpse](https://github.com/TitusKirch/glimpse)** - A lightweight, git-native desktop Git client — the full branch graph, diffs, and everyday git, with first-class WSL support.
+- 🛠️ **[terraform-provider-laravelforge](https://github.com/kirchDev/terraform-provider-laravelforge)** - OpenTofu / Terraform provider for Laravel Forge.
 
 ### Work in Progress
 
@@ -65,7 +66,7 @@ Older work — kept online for reference, no longer maintained.
 - 🐘 **[dev.tkirch.wsc.graphql-php](https://github.com/tkirchDev/dev.tkirch.wsc.graphql-php)** - Provides the "graphql-php" library at the WSC.
 - 🎮 **[dev.tkirch.wsc.nitrapi-php](https://github.com/tkirchDev/dev.tkirch.wsc.nitrapi-php)** - Titus version of the PHP SDK for the Nitrapi RESTful API.
 - 🪪 **[dev.tkirch.wsc.php-jwt](https://github.com/tkirchDev/dev.tkirch.wsc.php-jwt)** - Provides the "PHP-JWT" library at the WSC.
-- ❓ **[dev.hanashi.wsc.faq](https://github.com/HanashiDev/dev.hanashi.wsc.faq)** (6 stars) - A simple and powerful FAQ for your WSC.
+- ❓ **[dev.hanashi.wsc.faq](https://github.com/HanashiDev/dev.hanashi.wsc.faq)** (7 stars) - A simple and powerful FAQ for your WSC.
 
 <!-- PROJECTS:END -->
 
