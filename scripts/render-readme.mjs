@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import yaml from 'js-yaml';
+import { load } from 'js-yaml';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
@@ -14,7 +14,7 @@ if (!TOKEN) {
 const MARK_START = '<!-- PROJECTS:START -->';
 const MARK_END = '<!-- PROJECTS:END -->';
 
-const cfg = yaml.load(readFileSync(resolve(ROOT, 'projects.yml'), 'utf8'));
+const cfg = load(readFileSync(resolve(ROOT, 'projects.yml'), 'utf8'));
 const minStars = cfg.min_stars ?? 0;
 
 async function fetchRepo(slug) {
