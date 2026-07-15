@@ -32,6 +32,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🔻 **[envprism](https://github.com/TitusKirch/envprism)** - TUI-based env file manager — refract one set of variables into many environment views.
 - <img src="https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png" alt="" width="20" height="20" align="top" /> **[glimpse](https://github.com/TitusKirch/glimpse)** - A lightweight, git-native desktop Git client — the full branch graph, diffs, and everyday git, with first-class WSL support.
 - 🛠️ **[terraform-provider-laravelforge](https://github.com/kirchDev/terraform-provider-laravelforge)** - OpenTofu / Terraform provider for Laravel Forge.
+- 💬 **[terraform-provider-discord](https://github.com/kirchDev/terraform-provider-discord)** - OpenTofu / Terraform provider for Discord.
 
 ### Work in Progress
 

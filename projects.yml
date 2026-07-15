@@ -25,6 +25,8 @@ categories:
         logo: 'https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png'
       - repo: kirchDev/terraform-provider-laravelforge
         emoji: '🛠️'
+      - repo: kirchDev/terraform-provider-discord
+        emoji: '💬'
 
   - id: wip
     title: 'Work in Progress'
