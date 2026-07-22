@@ -3,7 +3,7 @@
   "language": "en",
   "pr": {
     "backend": "github",
-    "base": "dev",
+    "base": "main",
     "title": {
       "convention": "conventional"
     }
@@ -14,7 +14,7 @@
       "convention": "plain"
     },
     "labels": {
-      "exclude": ["stack:*", "autorelease:*", "dependencies"]
+      "exclude": ["stack:*", "dependencies"]
     },
     "github": {
       "template": null
