@@ -2,8 +2,6 @@ version: 2
 updates:
   - package-ecosystem: 'npm'
     directory: '/'
-    # Open PRs against the dev branch (the integration branch), not main.
-    target-branch: 'dev'
     schedule:
       interval: 'weekly'
     # Mirror the npm `minimumReleaseAge` (3 days): hold updates back until a
@@ -24,7 +22,6 @@ updates:
 
   - package-ecosystem: 'github-actions'
     directory: '/'
-    target-branch: 'dev'
     schedule:
       interval: 'monthly'
     cooldown:
