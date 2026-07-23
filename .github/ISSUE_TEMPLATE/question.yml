@@ -1,0 +1,16 @@
+name: ❓ Question
+description: Ask a question about usage or configuration
+labels: ['question', 'needs triage']
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Configs, commands, docs or issues you've already looked at.
