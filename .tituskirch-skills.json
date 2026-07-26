@@ -1,23 +1,86 @@
 {
   "$schema": "https://raw.githubusercontent.com/TitusKirch/skills/main/tituskirch-skills.schema.json",
+  "forge": "github",
   "language": "en",
+  "verify": "pnpm check",
+  "trustedBots": [
+    {
+      "id": 49699333,
+      "login": "dependabot[bot]"
+    }
+  ],
+  "commit": {
+    "language": "en",
+    "scopes": "auto"
+  },
   "pr": {
-    "backend": "github",
     "base": "main",
     "title": {
       "convention": "conventional"
     }
   },
+  "release": false,
+  "mergeDeps": {
+    "merge": false,
+    "confirm": "major",
+    "verify": "pnpm check",
+    "cap": 5
+  },
+  "pruneBranches": {
+    "age": 90,
+    "protect": []
+  },
   "issue": {
-    "backend": "github",
+    "tracker": "linear",
     "title": {
       "convention": "plain"
     },
     "labels": {
-      "exclude": ["stack:*", "dependencies"]
+      "exclude": ["stack:*", "autorelease:*", "dependencies"]
     },
-    "github": {
-      "template": null
+    "linear": {
+      "team": "INF",
+      "project": null,
+      "priority": null,
+      "defaultState": null
+    }
+  },
+  "docs": false,
+  "work": {
+    "tracker": "linear",
+    "cap": 10,
+    "branch": "branch:main",
+    "parallel": false,
+    "labels": {
+      "ready": "ai: ready",
+      "working": "ai: working",
+      "reviewRequested": "ai: review requested",
+      "reviewing": "ai: reviewing",
+      "changesRequested": "ai: changes requested",
+      "needsHuman": "ai: needs human",
+      "done": "ai: done",
+      "blocked": "ai: blocked",
+      "repo": "repo: TitusKirch/TitusKirch"
+    },
+    "review": {
+      "maxRounds": 3
+    },
+    "priorityLabels": [
+      "priority: urgent",
+      "priority: high",
+      "priority: medium",
+      "priority: low"
+    ],
+    "linear": {
+      "team": "INF",
+      "statuses": ["Todo", "In Progress", "In Review"],
+      "states": {
+        "ready": "Todo",
+        "working": "In Progress",
+        "reviewRequested": "In Review",
+        "changesRequested": "In Progress",
+        "done": "Done"
+      }
     }
   }
 }
