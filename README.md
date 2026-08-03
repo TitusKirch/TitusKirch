@@ -33,6 +33,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - <img src="https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png" alt="" width="20" height="20" align="top" /> **[glimpse](https://github.com/TitusKirch/glimpse)** - A lightweight, git-native desktop Git client — the full branch graph, diffs, and everyday git, with first-class WSL support.
 - 🛠️ **[terraform-provider-laravelforge](https://github.com/kirchDev/terraform-provider-laravelforge)** - OpenTofu / Terraform provider for Laravel Forge.
 - 💬 **[terraform-provider-discord](https://github.com/kirchDev/terraform-provider-discord)** - OpenTofu / Terraform provider for Discord.
+- 📐 **[terraform-provider-linear](https://github.com/kirchDev/terraform-provider-linear)** - OpenTofu / Terraform provider for Linear.
 
 ### Work in Progress
 
