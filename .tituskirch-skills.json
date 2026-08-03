@@ -57,7 +57,8 @@
       "needsHuman": "ai: needs human",
       "done": "ai: done",
       "blocked": "ai: blocked",
-      "repo": "repo: TitusKirch/TitusKirch"
+      "repo": "repo: TitusKirch/TitusKirch",
+      "needsTriage": "needs triage"
     },
     "review": {
       "maxRounds": 3
@@ -70,12 +71,14 @@
     ],
     "linear": {
       "team": "INF",
-      "statuses": ["Todo", "In Progress", "In Review"],
+      "statuses": ["Todo", "In Progress", "In Review", "Ready"],
       "states": {
         "ready": "Todo",
         "working": "In Progress",
         "reviewRequested": "In Review",
         "changesRequested": "In Progress",
+        "needsHuman": "In Review",
+        "accepted": "Ready",
         "done": "Done"
       }
     }
