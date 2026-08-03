@@ -27,6 +27,8 @@ categories:
         emoji: '🛠️'
       - repo: kirchDev/terraform-provider-discord
         emoji: '💬'
+      - repo: kirchDev/terraform-provider-linear
+        emoji: '📐'
 
   - id: wip
     title: 'Work in Progress'
