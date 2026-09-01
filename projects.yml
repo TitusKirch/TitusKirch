@@ -25,6 +25,9 @@ categories:
         logo: 'https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png'
       - repo: TitusKirch/hike-recap
         emoji: '🥾'
+  - id: iac
+    title: 'Infrastructure as Code'
+    items:
       - repo: kirchDev/terraform-provider-laravelforge
         emoji: '🛠️'
       - repo: kirchDev/terraform-provider-discord
