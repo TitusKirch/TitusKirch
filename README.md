@@ -23,6 +23,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 
 - 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - Policy-based access control for Laravel: roles, permissions, organisation-scoped authorization, Gate integration, and a decision cache.
 - 📱 **[laravel-device-sessions](https://github.com/kirchDev/laravel-device-sessions)** - Device-bound login sessions for Laravel: per-device remember-me tokens, a "where am I signed in" device list, and revoke/rename — privacy-respecting and Fortify-agnostic.
+- ⚡ **[vite-plugin-iconify-bundle](https://github.com/kirchDev/vite-plugin-iconify-bundle)** - Vite plugin that bundles only the Iconify icons your source actually uses — no runtime API calls, no whole collections.
 
 ### Tools
 
@@ -32,12 +33,19 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🔻 **[envprism](https://github.com/TitusKirch/envprism)** - TUI-based env file manager — refract one set of variables into many environment views.
 - <img src="https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png" alt="" width="20" height="20" align="top" /> **[glimpse](https://github.com/TitusKirch/glimpse)** - A lightweight, git-native desktop Git client — the full branch graph, diffs, and everyday git, with first-class WSL support.
 - 🥾 **[hike-recap](https://github.com/TitusKirch/hike-recap)** - Turns a hiking holiday's GPX tracks into a single portrait recap reel.
+- 🙈 **[gitignore-sync](https://github.com/kirchDev/gitignore-sync)** - CLI that keeps a repo's .gitignore maintained — curated blocks inside a managed region, re-rendered idempotently, nothing outside it touched.
 
 ### Infrastructure as Code
 
 - 🛠️ **[terraform-provider-laravelforge](https://github.com/kirchDev/terraform-provider-laravelforge)** - OpenTofu / Terraform provider for Laravel Forge.
 - 💬 **[terraform-provider-discord](https://github.com/kirchDev/terraform-provider-discord)** - OpenTofu / Terraform provider for Discord.
 - 📐 **[terraform-provider-linear](https://github.com/kirchDev/terraform-provider-linear)** - OpenTofu / Terraform provider for Linear.
+
+### CI & Automation
+
+- ⚙️ **[workflows](https://github.com/kirchDev/workflows)** - Central reusable GitHub Actions workflows for the kirchDev estate.
+- 📈 **[coverage-report](https://github.com/kirchDev/coverage-report)** - Coverage reporting on pull requests, straight from the reports your CI already writes — no third-party service.
+- 🗂️ **[meta](https://github.com/kirchDev/meta)** - Source of the projects listed on kirch.dev — curated entries plus GitHub facts, built into projects.json.
 
 ### Work in Progress
 
