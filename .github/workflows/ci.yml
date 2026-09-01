@@ -1,5 +1,8 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
 
+# The checks come from this repo's own `check` script in package.json —
+# the README render assertion included, as `render:check`.
+
 name: CI
 
 on:
@@ -7,60 +10,15 @@ on:
     branches:
       - main
     types: [opened, synchronize, reopened, ready_for_review]
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+    paths-ignore:
+      - '**.md'
+      - 'docs/**'
+      - LICENSE
 
 permissions:
   contents: read
-  pull-requests: write
 
 jobs:
-  lint:
-    name: Lint & Format
-    runs-on: ubuntu-latest
-    if: github.event.pull_request.draft == false
-    steps:
-      - uses: actions/checkout@v7
-
-      - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6.0.9
-
-      - uses: actions/setup-node@v7.0.0
-        with:
-          node-version: 24
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Lint
-        run: pnpm lint
-
-      - name: Format check
-        run: pnpm format
-
-  render:
-    name: Renderer smoke
-    runs-on: ubuntu-latest
-    if: github.event.pull_request.draft == false
-    steps:
-      - uses: actions/checkout@v7
-
-      - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6.0.9
-
-      - uses: actions/setup-node@v7.0.0
-        with:
-          node-version: 24
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Render README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: pnpm render
-
-      - name: Assert README is in sync with projects.yml
-        run: git diff --exit-code README.md
+  check:
+    name: CI
+    uses: kirchDev/workflows/.github/workflows/_ci-check.yml@f81bbe5fb5e8055b55a1ef5f861cc63a8e253622 # v0.1.3
