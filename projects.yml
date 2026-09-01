@@ -8,6 +8,8 @@ categories:
         emoji: '🛡️'
       - repo: kirchDev/laravel-device-sessions
         emoji: '📱'
+      - repo: kirchDev/vite-plugin-iconify-bundle
+        emoji: '⚡'
 
   - id: tools
     title: 'Tools'
@@ -25,12 +27,28 @@ categories:
         logo: 'https://raw.githubusercontent.com/TitusKirch/glimpse/refs/heads/main/assets/logo_256x256.png'
       - repo: TitusKirch/hike-recap
         emoji: '🥾'
+      - repo: kirchDev/gitignore-sync
+        emoji: '🙈'
+
+  - id: iac
+    title: 'Infrastructure as Code'
+    items:
       - repo: kirchDev/terraform-provider-laravelforge
         emoji: '🛠️'
       - repo: kirchDev/terraform-provider-discord
         emoji: '💬'
       - repo: kirchDev/terraform-provider-linear
         emoji: '📐'
+
+  - id: automation
+    title: 'CI & Automation'
+    items:
+      - repo: kirchDev/workflows
+        emoji: '⚙️'
+      - repo: kirchDev/coverage-report
+        emoji: '📈'
+      - repo: kirchDev/meta
+        emoji: '🗂️'
 
   - id: wip
     title: 'Work in Progress'
