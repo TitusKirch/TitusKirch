@@ -13,75 +13,26 @@ on:
     - cron: '17 6 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pull-requests: write
-
+# PERMISSIONS PER JOB: a workflow-level block caps every called body, so the
+# grant lives on the job that calls one.
 jobs:
   sync:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-        with:
-          ref: main
+    name: Sync Projects
+    permissions:
+      contents: read
+    uses: kirchDev/workflows/.github/workflows/_open-regenerated-pr.yml@7fd4eaf529500fcd07c527ae70c839ab9ac7d76f # v0.7.0
+    with:
+      # The renderer queries the GitHub API once per project it lists, so it
+      # needs a token — the body passes the caller's own.
+      build-command: pnpm render
+      paths: README.md
+      branch: bot/sync-projects
+      title: 'chore: sync projects list'
+      assignees: TitusKirch
+      app-id: '3831936'
+      body: |
+        ## Sync the rendered projects list
 
-      - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6.0.9
-
-      - uses: actions/setup-node@v7.0.0
-        with:
-          node-version: 24
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Render README
-        run: pnpm render
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Open or update sync PR
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          if [[ -z "$(git status --porcelain README.md)" ]]; then
-            echo "No changes."
-            exit 0
-          fi
-
-          branch=bot/sync-projects
-          base_sha=$(git rev-parse HEAD)
-
-          # (Re)point the branch at the current main tip via the API so it
-          # carries exactly one commit on top of main.
-          if gh api "repos/$GH_REPO/git/refs/heads/$branch" >/dev/null 2>&1; then
-            gh api -X PATCH "repos/$GH_REPO/git/refs/heads/$branch" \
-              -f sha="$base_sha" -F force=true >/dev/null
-          else
-            gh api -X POST "repos/$GH_REPO/git/refs" \
-              -f ref="refs/heads/$branch" -f sha="$base_sha" >/dev/null
-          fi
-
-          # Commit README.md through the Contents API. Commits created via the
-          # API with GITHUB_TOKEN are signed by GitHub → "Verified", satisfying
-          # the required_signatures rule on main.
-          file_sha=$(gh api "repos/$GH_REPO/contents/README.md?ref=$branch" --jq '.sha')
-          gh api -X PUT "repos/$GH_REPO/contents/README.md" \
-            -f message="chore: sync projects list" \
-            -f branch="$branch" \
-            -f sha="$file_sha" \
-            -f content="$(base64 -w0 README.md)" >/dev/null
-
-          existing=$(gh pr list --base main --head "$branch" --state open --json number --jq '.[0].number')
-          if [ -n "$existing" ]; then
-            echo "PR #$existing already open — updated it via the API."
-            exit 0
-          fi
-
-          gh pr create \
-            --base main \
-            --head "$branch" \
-            --title "chore: sync projects list" \
-            --body "Automated sync of the rendered projects list from \`projects.yml\` + live GitHub repo metadata." \
-            --assignee TitusKirch
+        Rebuilt from `projects.yml` and live GitHub repository metadata.
+    secrets:
+      BWS_ACCESS_TOKEN: ${{ secrets.BWS_ACCESS_TOKEN }}
