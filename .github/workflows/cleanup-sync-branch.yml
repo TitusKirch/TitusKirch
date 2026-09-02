@@ -1,29 +1,17 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
 
+# The sync branch is re-pointed at main on every run, so merging its pull
+# request never deletes it — GitHub's "delete branch on merge" removes a branch
+# the merge made obsolete, and this one is immediately obsolete again.
 name: Cleanup Sync Branch
 
 on:
   pull_request:
     types: [closed]
 
-permissions:
-  contents: write
-
 jobs:
-  delete-branch:
-    name: Delete bot/sync-projects after merge
-    if: github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'bot/sync-projects'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Delete head branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          branch=bot/sync-projects
-          if gh api "repos/$GH_REPO/git/refs/heads/$branch" >/dev/null 2>&1; then
-            gh api -X DELETE "repos/$GH_REPO/git/refs/heads/$branch"
-            echo "Deleted $branch."
-          else
-            echo "$branch already gone — nothing to do."
-          fi
+  cleanup-sync-branch:
+    name: Cleanup Sync Branch
+    permissions:
+      contents: write
+    uses: kirchDev/workflows/.github/workflows/_cleanup-sync-branch.yml@c4cce887e4df7cceb397bb556934e3c82bc6a69d # v0.4.0
