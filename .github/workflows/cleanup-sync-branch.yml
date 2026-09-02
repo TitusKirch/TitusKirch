@@ -14,4 +14,4 @@ jobs:
     name: Cleanup Sync Branch
     permissions:
       contents: write
-    uses: kirchDev/workflows/.github/workflows/_cleanup-sync-branch.yml@c4cce887e4df7cceb397bb556934e3c82bc6a69d # v0.4.0
+    uses: kirchDev/workflows/.github/workflows/_cleanup-sync-branch.yml@b7bc3408448d1c0c1266e8c5fe2788c9cf120790 # v0.5.0
