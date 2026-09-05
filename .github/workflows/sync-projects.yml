@@ -20,7 +20,7 @@ jobs:
     name: Sync Projects
     permissions:
       contents: read
-    uses: kirchDev/workflows/.github/workflows/_open-regenerated-pr.yml@7fd4eaf529500fcd07c527ae70c839ab9ac7d76f # v0.7.0
+    uses: kirchDev/workflows/.github/workflows/_open-regenerated-pr.yml@94cbcbd676b989ac6c6327055a240132f5cd76a5 # v0.8.0
     with:
       # The renderer queries the GitHub API once per project it lists, so it
       # needs a token — the body passes the caller's own.
