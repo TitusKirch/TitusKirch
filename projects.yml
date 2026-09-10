@@ -4,10 +4,16 @@ categories:
   - id: packages
     title: 'Packages'
     items:
+      - repo: kirchDev/duxt
+        emoji: '📚'
       - repo: kirchDev/laravel-pbac
         emoji: '🛡️'
       - repo: kirchDev/laravel-device-sessions
         emoji: '📱'
+      - repo: kirchDev/laravel-notification-delivery
+        emoji: '🔔'
+      - repo: kirchDev/pinia-colada-plugin-laravel-echo
+        emoji: '📡'
       - repo: kirchDev/vite-plugin-iconify-bundle
         emoji: '⚡'
 
