@@ -21,7 +21,7 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 
 ### Packages
 
-- 📚 **[duxt](https://github.com/kirchDev/duxt)** - Nuxt documentation layer on Content v3 — multi-repo, versioned docs from one compact source list.
+- 📚 **[duxt](https://github.com/kirchDev/duxt)** - duxt is a Nuxt layer: extend it and your docs/ folder becomes a site, with theme, search, API reference and llms.txt included. Point it at other repositories, or at tags of the same one, and each becomes a version.
 - 🛡️ **[laravel-pbac](https://github.com/kirchDev/laravel-pbac)** - Policy-based access control for Laravel: roles, permissions, organisation-scoped authorization, Gate integration, and a decision cache.
 - 📱 **[laravel-device-sessions](https://github.com/kirchDev/laravel-device-sessions)** - Device-bound login sessions for Laravel: per-device remember-me tokens, a "where am I signed in" device list, and revoke/rename — privacy-respecting and Fortify-agnostic.
 - 🔔 **[laravel-notification-delivery](https://github.com/kirchDev/laravel-notification-delivery)** - The layer Laravel's notifications leave out: stored notifications with read state, per-recipient channel preferences, and a gate chain that decides delivery before via() runs.
