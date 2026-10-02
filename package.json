@@ -29,16 +29,16 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "js-yaml": "^5.4.0"
+    "js-yaml": "^5.4.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.2.2",
-    "@commitlint/config-conventional": "^21.2.2",
+    "@commitlint/cli": "^21.2.3",
+    "@commitlint/config-conventional": "^21.2.3",
     "husky": "^9.1.7",
-    "lint-staged": "^17.3.0",
-    "oxfmt": "0.65.0",
-    "oxlint": "1.80.0",
-    "taze": "^21.1.0"
+    "lint-staged": "^17.6.0",
+    "oxfmt": "0.71.0",
+    "oxlint": "1.86.0",
+    "taze": "^21.2.0"
   },
   "engines": {
     "node": ">=24"
