@@ -43,6 +43,8 @@ Independent developer running [_IT-Dienstleistungen Titus Kirch_](https://kirch.
 - 🛠️ **[terraform-provider-laravelforge](https://github.com/kirchDev/terraform-provider-laravelforge)** - OpenTofu / Terraform provider for Laravel Forge.
 - 💬 **[terraform-provider-discord](https://github.com/kirchDev/terraform-provider-discord)** - OpenTofu / Terraform provider for Discord.
 - 📐 **[terraform-provider-linear](https://github.com/kirchDev/terraform-provider-linear)** - OpenTofu / Terraform provider for Linear.
+- 🌐 **[terraform-provider-tcpshield](https://github.com/kirchDev/terraform-provider-tcpshield)** - OpenTofu / Terraform provider for TCPShield.
+- 🖥️ **[terraform-provider-hetznerrobot](https://github.com/kirchDev/terraform-provider-hetznerrobot)** - OpenTofu / Terraform provider for Hetzner Robot (dedicated servers).
 
 ### CI & Automation
 

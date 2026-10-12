@@ -45,6 +45,10 @@ categories:
         emoji: '💬'
       - repo: kirchDev/terraform-provider-linear
         emoji: '📐'
+      - repo: kirchDev/terraform-provider-tcpshield
+        emoji: '🌐'
+      - repo: kirchDev/terraform-provider-hetznerrobot
+        emoji: '🖥️'
 
   - id: automation
     title: 'CI & Automation'
